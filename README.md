@@ -51,3 +51,4 @@ $ (venv) python chat_bot.py
 ## Note
 In the video we give the demonstration of the project.
 
+# trAIner
